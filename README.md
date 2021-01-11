@@ -1,6 +1,8 @@
 ![Electronics Engineer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h2 align='center'><samp><strong>Hey there 👋, I'm Victor!</strong></samp></h2>
 <p align='center'>Electronics Engineer | Software Developer | Tech enthusiast | Web developer</p>
+
+
 My name is Victor (or *Shunya* in the net), I'm a tech passionate who loves the best of both worlds: hardware and software! I'm an Electronics Engineer currently working as Software Engineer in the medical field. I enjoy doing some cool projects like modding, automatizing or just creating stuff I like.
 
 #### Skills and Experience
