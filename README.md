@@ -15,5 +15,5 @@ My name is Victor (or *Shunya* in the net), I'm a tech passionate who loves the 
 
 :newspaper: HTML, CSS and PHP
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='border:5px solid black'>](https://github.com/Shunya-sama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victorluquemartinez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ItsShunya)  
+[<kbd><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></kbd>](https://github.com/Shunya-sama)  [<kbd><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></kbd>](https://www.linkedin.com/in/victorluquemartinez/)  [<kbd><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></kbd>](https://twitter.com/ItsShunya)  
 
